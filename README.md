@@ -1,17 +1,10 @@
-# Python-Drawing-Program
-A python program similar to Microsoft paint. It allows you to use a variety of drawing tools on a pixel grid to create drawings. It features the ability to save and load work created within the program.
-
-# Requirements
+# Programa de desenho em Python
+Um programa python semelhante ao Microsoft Paint. Ele permite que você use uma variedade de ferramentas de desenho em uma grade de pixels para criar desenhos. Ele possui a capacidade de salvar e carregar o trabalho criado dentro do programa.
+<src img="https://github.com/DarlanNoetzold/Programa-de-desenho-em-Python/blob/master/paint01.jpg">
+# Requerimentos
 - Python 3.x
 - TKinter
 - Pygame
 
-# Run in Gitpod
-
-You can also run Python-Drawing-Program in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Python-Drawing-Program/blob/master/main.py)
-
-Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+# Rodar pelo Gitpod
+Ele pode ser rodado pelo Gitpod.
