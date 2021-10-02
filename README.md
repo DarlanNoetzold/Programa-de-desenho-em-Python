@@ -10,3 +10,7 @@ Um programa python semelhante ao Microsoft Paint. Ele permite que você use uma 
 
 # Rodar pelo Gitpod
 Ele pode ser rodado pelo Gitpod.
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
